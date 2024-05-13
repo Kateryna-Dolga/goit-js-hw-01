@@ -1,0 +1,17 @@
+h1{
+    font-size: 54px;
+}
+li{
+    font-size: 36px;
+}
+.content{
+    margin: 0 auto;
+    max-width: 1280px;
+    display: flex;
+
+}
+
+img{
+ 
+    margin-right: 100px;
+}
