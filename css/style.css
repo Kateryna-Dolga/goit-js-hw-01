@@ -21,14 +21,12 @@ img{
 {
 display: flex;
 }
+
 .result{
     margin: 0 auto;
    margin-top: 50px;
    text-align: center;
 }
-.result h2{
-    font-size: 36px;
-    text-align: center;
-}
+
 
 /*------------------------hhhhhh-----*/
